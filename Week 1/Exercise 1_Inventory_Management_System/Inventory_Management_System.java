@@ -90,8 +90,12 @@ class Inventory_Management_System {
     }
 
     public void displayInventory() {
-        for (Product product : inventory.values()) {
-            System.out.println(product);
+        if (inventory.isEmpty()) {
+            System.out.println("The inventory is currently empty.");
+        } else {
+            for (Product product : inventory.values()) {
+                System.out.println(product);
+            }
         }
     }
 
