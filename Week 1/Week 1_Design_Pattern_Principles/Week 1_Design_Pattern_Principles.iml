@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Exercise 10_MVC_Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise 11_Dependency_Injection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise 1_Singleton_Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise 2_Factory_Method_Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise 3_Builder_Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise 4_Adapter_Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise 5_Decorator_Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise 6_Proxy_Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise 7_Observer_Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise 8_Strategy_Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise 9_Command_Pattern" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
